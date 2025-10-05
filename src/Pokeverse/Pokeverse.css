@@ -11,7 +11,8 @@ body {
   display: flex;
   justify-content: center;
   min-height: 100vh;
-  background: url("../img/Background.jpg");/*O Background não aparece*/
+  background: url("../img/Background.jpg");
   background-size: cover;
   background-position: center;
 }
+
